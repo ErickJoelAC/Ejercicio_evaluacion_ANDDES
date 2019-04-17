@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "descripcion": "Asesoria Minera",
+    "equipo": [
+      {
+        "id": 1,
+        "cargo": "Responsable"
+      },
+      {
+        "id": 3,
+        "cargo": "Asesor"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "descripcion": "Asesoria Tecnologica",
+    "equipo": [
+      {
+        "id": 3,
+        "cargo": "Responsable"
+      },
+      {
+        "id": 2,
+        "cargo": "Asesor"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "descripcion": "Asesoria Legal",
+    "equipo": [
+      {
+        "id": 3,
+        "cargo": "Responsable"
+      },
+      {
+        "id": 2,
+        "cargo": "Asesor"
+      },
+      {
+        "id": 1,
+        "cargo": "Asesor"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "descripcion": "Asesoria Minera y Tecnologica",
+    "equipo": [
+      {
+        "id": 4,
+        "cargo": "Responsable"
+      }
+    ]
+  }
+]
